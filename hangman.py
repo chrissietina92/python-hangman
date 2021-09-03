@@ -1,7 +1,6 @@
 import random
 import sys
-wordOptions = ['apple']
-wordptions = ['apple', 'banana', "insert", "your", "words", "in", "this", "python", "list", "please", "help", "goat", "rainbow","cheese", "heaven", "music", "train", "danger", "long", "alphabet", "brain", "chair", "surf", "cat", "zoo", "sweet", "brother", "sister"]
+wordOptions = ['apple', 'banana', "insert", "your", "words", "in", "this", "python", "list", "please", "help", "goat", "rainbow","cheese", "heaven", "music", "train", "danger", "long", "alphabet", "brain", "chair", "surf", "cat", "zoo", "sweet", "brother", "sister"]
 count = 0
 
 
